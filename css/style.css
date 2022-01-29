@@ -1,0 +1,86 @@
+@import "null.css";
+
+.header {
+    color: rosybrown;
+}
+
+#section_1 {
+    color: royalblue;
+}
+
+.list.first-item {
+    color: red;
+}
+
+.list a {
+    color: sandybrown;
+}
+
+span {
+    color: yellow;
+}
+
+p span {
+    color: turquoise;
+}
+
+.first-name,  
+.second-name {
+    color:tomato;
+}
+
+.list.secon-item {
+    color: red;
+}
+
+.list.second-item {
+    color:navy;
+}
+
+div {
+    color: orange;
+}
+
+.random-text {
+    color: saddlebrown;
+}
+
+#next {
+    color: aquamarine;
+}
+
+div.random{
+    color: teal;
+}
+
+[class*="-first"] {
+    color: red;
+}
+
+.random-second > p {
+    color: maroon;
+}
+
+h3 {
+    color: midnightblue;
+}
+
+#section_2_2 {
+    color:orangered
+}
+
+#section_2_3 {
+    color: black;
+}
+
+main p {
+    color: orchid;
+}
+
+.season-1 {
+    color: black;
+}
+
+#next-1 {
+    color: white;
+}
